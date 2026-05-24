@@ -1,0 +1,6 @@
+{
+  "name": "Metropolitan University",
+  "description": "Metropolitan University multi-role academic and transit management portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
